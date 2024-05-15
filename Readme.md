@@ -1,4 +1,9 @@
-Install dependency in requirements.txt
-    extra install tenserflow and numpy version = 1.23.5
 
-run python voiceolation.py <Audio Path>
+# Install dependency in requirements.txt
+####  Install tensorflow if not exist.
+#### numpy version = 1.23.5 (If Any Numpy conflit occurs ).
+
+### run :
+```
+python voiceolation.py audio_path
+```
